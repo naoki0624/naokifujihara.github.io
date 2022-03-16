@@ -78,8 +78,7 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 
 
 
-## Exhibitions
-
+## Publications
 <div>
 ・2019, <a href="https://tokyocameraclub.com/special/exhibition_2019/">Tokyo Camera Club Photo Exhibition</a> &#8211; Tokyo, Japan
 </div>
