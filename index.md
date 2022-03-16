@@ -72,7 +72,7 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 ・2018, A catalog for the exhibition “<a href="http://www.blurb.com/b/8730949-black-white">Black and White 2018</a>” &#8211; Blank Wall Gallery in Athens, Greece.
 </div>
 <div>
-・2018, Tokyo Camera Club in Tokyo, Japan / A photo book titled &#8220;<a href="https://natgeo.nikkeibp.co.jp/atcl/product/18/041300006/"></a>The world is more beautiful than we think.&#8221;
+・2018, Tokyo Camera Club in Tokyo, Japan / A photo book titled "<a href="https://natgeo.nikkeibp.co.jp/atcl/product/18/041300006/"></a>The world is more beautiful than we think."
 </div>
 
 
