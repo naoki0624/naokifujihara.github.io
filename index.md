@@ -3,9 +3,7 @@
 ####  Naoki Fujihara – Architecture Photographer of the Year on IPA 2018
 
 Naoki Fujihara is an award-winning fine art photographer living in Japan. His works aim at not only expressing the beauty and dynamism of architectures, but he also expresses his values or his life experiences with photography. His photographs were awarded some international photography competitions.
-
-![img](imgs/IPA_2018_Photos_and_Certificate.jpg)
-
+<img src="imgs/IPA_2018_Photos_and_Certificate.jpg" width="50%">
 
 ## Awards List
 
@@ -92,3 +90,14 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 <div>
 ・2018, <a href="https://tokyocameraclub.com/special/exhibition_2018/">Tokyo Camera Club Photo Exhibition</a> &#8211; Tokyo, Japan
 </div>
+
+
+
+## Portfolio
+
+
+2019, UMBRA International Photography Competition – 1st & 3rd Place（Architecture）
+
+
+
+![img](imgs/UMBRA_AWARDS_Photos_and_Certificate.jpg)
