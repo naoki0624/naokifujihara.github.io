@@ -36,11 +36,16 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 <div>・2018, <a href="http://web.archive.org/web/20190916114704/https://oneeyeland.com/japan-top10-black-and-white-photographers-2018">One Eyeland World&#8217;s TOP 10 Black &amp; White Photographers</a> &#8211; JAPAN Rank #3</div>
 <div>・2018, <a href="http://web.archive.org/web/20190916114704/https://fineartphotoawards.com/winners-gallery/fapa-2017-2018/amateur/architecture">FAPA Fine Art Photography Awards</a> &#8211; Honorable Mention（Architecture）</div>
 <div>・2017, <a href="http://web.archive.org/web/20190916114704/https://oneeyeland.com/awards/award_images.php?award_id=3689&amp;cat=architecture&amp;year=2017">One Eyeland Awards</a> &#8211; Finalist</div>
-<div>・2017, <a href="http://web.archive.org/web/20190916114704/https://www.tokyofotoawards.jp/winners/hm/2017/23-9884-18/">TIFA Tokyo International Foto Awards</a> &#8211; Honorable Mention（Architecture）</div>
-・2017,<a href="http://web.archive.org/web/20190916114704/https://monoawards.com/winners-gallery/monochrome-awards-2017/amateur/architecture/hm/6452"> Monochrome Awards</a> &#8211; Honorable Mention
 
-
-・2017,<a href="https://iphotographeroftheyear.com/winners-gallery/ipoty-2017/amateur/honorable-mentions"> IPOTY International Photographer of The Year</a> &#8211; Honorable Mention
+<div>
+・2017, <a href="https://www.tokyofotoawards.jp/winners/hm/2017/23-9884-18/">TIFA Tokyo International Foto Awards</a> &#8211; Honorable Mention（Architecture）
+</div>
+<div>
+・2017, <a href="http://web.archive.org/web/20190916114704/https://monoawards.com/winners-gallery/monochrome-awards-2017/amateur/architecture/hm/6452"> Monochrome Awards</a> &#8211; Honorable Mention
+</div>
+<div>
+・2017, <a href="https://iphotographeroftheyear.com/winners-gallery/ipoty-2017/amateur/honorable-mentions"> IPOTY International Photographer of The Year</a> &#8211; - Honorable Mention
+</div>
 
 
 
