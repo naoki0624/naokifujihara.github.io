@@ -51,7 +51,7 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 
 
 ## Publications
-・2019, Tokyo Camera Club in Tokyo, Japan / A photo book titled "<a href="https://natgeo.nikkeibp.co.jp/atcl/product/19/051500019/"></a>This cruel yet beloved world."
+・2019, Tokyo Camera Club in Tokyo, Japan / A photo book titled <a href="https://natgeo.nikkeibp.co.jp/atcl/product/19/051500019/">"This cruel yet beloved world."</a>
 </div>
 <div>
 ・2019, 6th issue of <a href="http://fineeyemagazine.weebly.com/issues/issue-01-2019">Fine Eye Magazine</a>, a fine art photography magazine.
