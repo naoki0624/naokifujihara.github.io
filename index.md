@@ -46,17 +46,44 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 ・2017, <a href="https://monoawards.com/winners-gallery/monochrome-awards-2017/amateur/architecture/hm/6452"> Monochrome Awards</a> &#8211; Honorable Mention
 </div>
 <div>
-・2017, <a href="https://iphotographeroftheyear.com/winners-gallery/ipoty-2017/amateur/bridges/show/hm/2773"> IPOTY International Photographer of The Year</a> &#8211; - Honorable Mention
+・2017, <a href="https://iphotographeroftheyear.com/winners-gallery/ipoty-2017/amateur/bridges/show/hm/2773"> IPOTY International Photographer of The Year</a> &#8211; Honorable Mention
 </div>
 
 
 ## Publications
 
-● Exhibitions
-- 2018, Joined the photo exhibition titled International Photographer Exhibition “Black and White 2018” held at Blank Wall Gallery (Athens, Greece)
-- 2018, Joined the photo exhibition - Chania International Photo Festival (Chania, Greece)
-- 2018, Tokyo Camera Club Photo Exhibition held at Shibuya Hikarie（Tokyo, Japan）
+<div>
+・2019, 6th issue of <a href="http://fineeyemagazine.weebly.com/issues/issue-01-2019">Fine Eye Magazine</a>, a fine art photography magazine.
+</div>
+<div>
+・2018, 16th issue of <a href="https://shadesofgreymagazine.com/product/shades-of-grey-magazine-n16/">Shades of Grey Magazine</a>, a black and white photography magazine.
+</div>
+<div>
+・2018, 5th issue of <a href="https://issuu.com/eye-photomagazine/docs/fem__issue__05__2018__issuu/138">Fine Eye Magazine</a>, a fine art photography magazine.
+</div>
+<div>
+・2018, 13th issue of <a href="https://minimalismmag.com/mag/13/">Minimalism</a>, a black and white photography magazine.
+</div>
+<div>
+<div>
+・2018, <a href="http://monovisions.com/naoki-fujihara-interview-with-architecture-photographer/">MONOVISION</a>, a black and white photography magazine.
+</div>
+<div>
+・2018, A catalog for the exhibition “<a href="http://www.blurb.com/b/8730949-black-white">Black and White 2018</a>” &#8211; Blank Wall Gallery in Athens, Greece.
+</div>
+<div>
+・2018, Tokyo Camera Club in Tokyo, Japan / A photo book titled &#8220;The world is more beautiful than we think.&#8221;</div>
 
-● Publications
-- 2018, Blank Wall Gallery in Athens, Greece / A catalogue for the exhibition “Black and White 2018”
-- 2018, Tokyo Camera Club in Tokyo, Japan / A photo book titled "The world is more beautiful than we think."
+## Exhibitions
+<div>
+・2019, <a href="https://tokyocameraclub.com/special/exhibition_2019/">Tokyo Camera Club Photo Exhibition</a> &#8211; Tokyo, Japan
+</div>
+<div>
+・2018, Black and White &#8211; Blank Wall Gallery, Athens, Greece
+</div>
+<div>
+・2018, <a href="http://www.cipfestival.com/3-naoki-fujihara/">Chania International Photo Festival &#8211; Chania, Greece
+</div>
+<div>
+・2018, <a href="https://tokyocameraclub.com/special/exhibition_2018/">Tokyo Camera Club Photo Exhibition</a> &#8211; Tokyo, Japan
+</div>
