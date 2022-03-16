@@ -1,8 +1,8 @@
 ## About
 
-<img src="imgs/Portrait.png" width="50%"  class="center">
+<img src="imgs/Portrait.png" width="25%" style="display: block; margin: auto;">
 
-<div style="text-align: center;">
+<div style="font-weight:bolder text-align: center;">
 Naoki Fujihara – Architecture Photographer of the Year on IPA 2018
 </div>
 
