@@ -24,17 +24,11 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 - 2017, Monochrome Awards – Honorable Mention
 - 2017, IPOTY International Photographer of The Year - Honorable Mention
 
-- 2019, [UMBRA International Photography Competition](http://web.archive.org/web/20190916114704/https://www.umbrawards.com/winners-professional?utm_campaign=ad9a91ab-09eb-49ef-89b4-917426cfcddd&amp;utm_source=so) – 1st & 3rd Place（Architecture）
-- 2018, [ND Photography Awards](http://web.archive.org/web/20190916114704/https://www.umbrawards.com/winners-professional?utm_campaign=ad9a91ab-09eb-49ef-89b4-917426cfcddd&amp;utm_source=so)– Honorable Mention（Architecture）
-
-- 2018, [ND Photography Awards](http://web.archive.org/web/20190916114704/https://www.umbrawards.com/winners-professional?utm_campaign=ad9a91ab-09eb-49ef-89b4-917426cfcddd&amp;utm_source=so)– Honorable Mention（Architecture）
 
 
-
-
-<div>・2019, <a href="">UMBRA International Photography Competition</a> &#8211; 1st &amp; 3rd Place（Architecture）</div>
-<div>・2018, <a href="http://web.archive.org/web/20190916114704/https://ndawards.net/winners-gallery/nd-awards-2018/non-professional/buildings/hm/8424">ND Photography Awards</a> – Honorable Mention（Architecture）</div>
-<div>・2018, <a href="http://web.archive.org/web/20190916114704/https://www.thespiderawards.com/gallery/13th/professional/architectural/winners/199486">13th Black &amp; White Spider Awards</a> &#8211; Nominee（Architecture）</div>
+<div>・2019, <a href="https://www.umbrawards.com/winners-professional?utm_campaign=ad9a91ab-09eb-49ef-89b4-917426cfcddd&amp;utm_source=so">UMBRA International Photography Competition</a> &#8211; 1st &amp; 3rd Place（Architecture）</div>
+<div>・2018, <a href="https://ndawards.net/winners-gallery/nd-awards-2018/non-professional/buildings/hm/8424">ND Photography Awards</a> – Honorable Mention（Architecture）</div>
+<div>・2018, <a href="https://www.thespiderawards.com/gallery/13th/professional/architectural/winners/199486">13th Black &amp; White Spider Awards</a> &#8211; Nominee（Architecture）</div>
 <div>・2018, <a href="http://web.archive.org/web/20190916114704/https://www.photoawards.com/winner/index.php?compName=IPA%202018&amp;level=student">IPA International Photography Awards</a> &#8211; Architecture Photographer of the Year &amp; 1st Place（Architecture）</div>
 <div>・2018, <a href="http://web.archive.org/web/20190916114704/https://www.photoawards.com/winner/hmention.php?compName=IPA%202018&amp;level=student">IPA International Photography Awards</a> &#8211; Honorable Mention（Architecture）</div>
 <div>・2018, <a href="http://web.archive.org/web/20190916114704/https://px3.fr/winners/px3/2018/9438/">PX3 Prix de la Photographie de Paris</a> &#8211; Gold（Advertising/Architecture）</div>
@@ -43,9 +37,12 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 <div>・2018, <a href="http://web.archive.org/web/20190916114704/https://fineartphotoawards.com/winners-gallery/fapa-2017-2018/amateur/architecture">FAPA Fine Art Photography Awards</a> &#8211; Honorable Mention（Architecture）</div>
 <div>・2017, <a href="http://web.archive.org/web/20190916114704/https://oneeyeland.com/awards/award_images.php?award_id=3689&amp;cat=architecture&amp;year=2017">One Eyeland Awards</a> &#8211; Finalist</div>
 <div>・2017, <a href="http://web.archive.org/web/20190916114704/https://www.tokyofotoawards.jp/winners/hm/2017/23-9884-18/">TIFA Tokyo International Foto Awards</a> &#8211; Honorable Mention（Architecture）</div>
-<div>・2017,<a href="http://web.archive.org/web/20190916114704/https://monoawards.com/winners-gallery/monochrome-awards-2017/amateur/architecture/hm/6452"> Monochrome Awards</a> &#8211; Honorable Mention</div>
-<h3 style="text-align: center;">Publications</h3>
-<hr/>
+・2017,<a href="http://web.archive.org/web/20190916114704/https://monoawards.com/winners-gallery/monochrome-awards-2017/amateur/architecture/hm/6452"> Monochrome Awards</a> &#8211; Honorable Mention
+
+
+・2017,<a href="https://iphotographeroftheyear.com/winners-gallery/ipoty-2017/amateur/honorable-mentions"> IPOTY International Photographer of The Year</a> &#8211; Honorable Mention
+
+
 
 
 ● Exhibitions
