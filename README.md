@@ -1,0 +1,1 @@
+# naokifujihara.github.io
