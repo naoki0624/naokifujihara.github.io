@@ -20,13 +20,13 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 ・2018, <a href="https://www.thespiderawards.com/gallery/13th/professional/architectural/winners/199486">13th Black &amp; White Spider Awards</a> &#8211; Nominee（Architecture）
 </div>
 <div>
-・2018, <a href="http://web.archive.org/web/20190916114704/https://www.photoawards.com/winner/index.php?compName=IPA%202018&amp;level=student">IPA International Photography Awards</a> &#8211; Architecture Photographer of the Year &amp; 1st Place（Architecture）
+・2018, <a href="https://www.photoawards.com/winner/zoom.php?eid=8-158888-18">IPA International Photography Awards</a> &#8211; Architecture Photographer of the Year &amp; 1st Place（Architecture）
 </div>
 <div>
-・2018, <a href="http://web.archive.org/web/20190916114704/https://www.photoawards.com/winner/hmention.php?compName=IPA%202018&amp;level=student">IPA International Photography Awards</a> &#8211; Honorable Mention（Architecture）
+・2018, <a href="https://www.photoawards.com/winner/zoom.php?eid=8-156541-18">IPA International Photography Awards</a> &#8211; Honorable Mention（Architecture）
 </div>
 <div>
-・2018, <a href="http://web.archive.org/web/20190916114704/https://px3.fr/winners/px3/2018/9438/">PX3 Prix de la Photographie de Paris</a> &#8211; Gold（Advertising/Architecture
+・2018, <a href="https://px3.fr/winners/px3/2018/9438/">PX3 Prix de la Photographie de Paris</a> &#8211; Gold（Advertising/Architecture）
 </div>
 <div>
 ・2018, <a href="http://web.archive.org/web/20190916114704/https://www.moscowfotoawards.com/winners/moscow/2018">MIFA Moscow International Foto Awards</a> &#8211; Gold and Silver（Architecture
