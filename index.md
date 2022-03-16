@@ -4,7 +4,7 @@
 
 Naoki Fujihara is an award-winning fine art photographer living in Japan. His works aim at not only expressing the beauty and dynamism of architectures, but he also expresses his values or his life experiences with photography. His photographs were awarded some international photography competitions.
 
-![画像](imgs/Color_01.jpg)
+![画像](imgs/IPA 2018 - Photos and Certificate.jpg)
 
 
 ## Awards List
