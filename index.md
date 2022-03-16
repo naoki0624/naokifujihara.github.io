@@ -24,7 +24,13 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 - 2017, Monochrome Awards – Honorable Mention
 - 2017, IPOTY International Photographer of The Year - Honorable Mention
 
-- [2019, UMBRA International Photography Competition](http://web.archive.org/web/20190916114704/https://www.umbrawards.com/winners-professional?utm_campaign=ad9a91ab-09eb-49ef-89b4-917426cfcddd&amp;utm_source=so) – 1st & 3rd Place（Architecture）
+- 2019, [UMBRA International Photography Competition](http://web.archive.org/web/20190916114704/https://www.umbrawards.com/winners-professional?utm_campaign=ad9a91ab-09eb-49ef-89b4-917426cfcddd&amp;utm_source=so) – 1st & 3rd Place（Architecture）
+- 2018, [ND Photography Awards](http://web.archive.org/web/20190916114704/https://www.umbrawards.com/winners-professional?utm_campaign=ad9a91ab-09eb-49ef-89b4-917426cfcddd&amp;utm_source=so)– Honorable Mention（Architecture）
+
+- 2018, [ND Photography Awards](http://web.archive.org/web/20190916114704/https://www.umbrawards.com/winners-professional?utm_campaign=ad9a91ab-09eb-49ef-89b4-917426cfcddd&amp;utm_source=so)– Honorable Mention（Architecture）
+
+
+
 
 <div>・2019, <a href="">UMBRA International Photography Competition</a> &#8211; 1st &amp; 3rd Place（Architecture）</div>
 <div>・2018, <a href="http://web.archive.org/web/20190916114704/https://ndawards.net/winners-gallery/nd-awards-2018/non-professional/buildings/hm/8424">ND Photography Awards</a> – Honorable Mention（Architecture）</div>
