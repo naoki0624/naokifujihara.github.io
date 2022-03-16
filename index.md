@@ -68,7 +68,6 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 ・2018, 13th issue of <a href="https://minimalismmag.com/2018/10/10/bw-minimalism-magazine-13/">Minimalism</a>, a black and white photography magazine.
 </div>
 <div>
-<div>
 ・2018, <a href="http://monovisions.com/naoki-fujihara-interview-with-architecture-photographer/">MONOVISION</a>, a black and white photography magazine.
 </div>
 <div>
@@ -77,7 +76,6 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 <div>
 ・2018, Tokyo Camera Club in Tokyo, Japan / A photo book titled "<a href="https://natgeo.nikkeibp.co.jp/atcl/product/18/041300006/"></a>The world is more beautiful than we think."
 </div>
-
 
 
 
