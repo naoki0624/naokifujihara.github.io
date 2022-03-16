@@ -72,10 +72,8 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 ・2018, A catalog for the exhibition “<a href="http://www.blurb.com/b/8730949-black-white">Black and White 2018</a>” &#8211; Blank Wall Gallery in Athens, Greece.
 </div>
 <div>
-・2018, Tokyo Camera Club in Tokyo, Japan / A photo book titled &#8220;<a href="https://natgeo.nikkeibp.co.jp/atcl/product/18/041300006/">The world is more beautiful than we think.&#8221;
+・2018, Tokyo Camera Club in Tokyo, Japan / A photo book titled &#8220;<a href="https://natgeo.nikkeibp.co.jp/atcl/product/18/041300006/"></a>The world is more beautiful than we think.&#8221;
 </div>
-
-
 
 
 
@@ -85,11 +83,11 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 ・2019, <a href="https://tokyocameraclub.com/special/exhibition_2019/">Tokyo Camera Club Photo Exhibition</a> &#8211; Tokyo, Japan
 </div>
 <div>
-・2018, <a href="http://www.blankwallgallery.com/exhibition-black-white-2019/#jp-carousel-8889">Black and White &#8211; Blank Wall Gallery, Athens, Greece
+・2018, <a href="http://www.blankwallgallery.com/exhibition-black-white-2019/#jp-carousel-8889"></a>Black and White &#8211; Blank Wall Gallery, Athens, Greece
 </div>
 <div>
-・2018, <a href="http://www.cipfestival.com/3-naoki-fujihara/">Chania International Photo Festival &#8211; Chania, Greece
+・2018, <a href="http://www.cipfestival.com/3-naoki-fujihara/"></a>Chania International Photo Festival &#8211; Chania, Greece
 </div>
 <div>
-・2018, <a href="https://tokyocameraclub.com/special/exhibition_2018/">Tokyo Camera Club Photo Exhibition</a> &#8211; Tokyo, Japan
+・2018, <a href="https://tokyocameraclub.com/special/exhibition_2018/"></a>Tokyo Camera Club Photo Exhibition &#8211; Tokyo, Japan
 </div>
