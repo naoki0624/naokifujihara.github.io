@@ -1,5 +1,4 @@
 # About
----
 
 ####  Naoki Fujihara – Architecture Photographer of the Year on IPA 2018
 
@@ -9,7 +8,7 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 
 
 ## Awards List
----
+
 <div>
 ・2019, <a href="https://www.umbrawards.com/professional?lightbox=dataItem-keokuvng2">UMBRA International Photography Competition</a> &#8211; 1st &amp; 3rd Place（Architecture）
 </div>
@@ -29,17 +28,16 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 ・2018, <a href="https://px3.fr/winners/px3/2018/9438/">PX3 Prix de la Photographie de Paris</a> &#8211; Gold（Advertising/Architecture）
 </div>
 <div>
-・2018, <a href="http://web.archive.org/web/20190916114704/https://www.moscowfotoawards.com/winners/moscow/2018">MIFA Moscow International Foto Awards</a> &#8211; Gold and Silver（Architecture
-）
+・2018, <a href="https://www.moscowfotoawards.com/winners/moscow/2018/4053/">MIFA Moscow International Foto Awards</a> &#8211; Gold and Silver（Architecture）
 </div>
 <div>
-・2018, <a href="http://web.archive.org/web/20190916114704/https://oneeyeland.com/japan-top10-black-and-white-photographers-2018">One Eyeland World&#8217;s TOP 10 Black &amp; White Photographers</a> &#8211; JAPAN Rank #3
+・2018, <a href="https://oneeyeland.com/japan-top10-black-and-white-photographers-2018">One Eyeland World's TOP 10 Black &amp; White Photographers</a> &#8211; JAPAN Rank #3
 </div>
 <div>
-・2018, <a href="http://web.archive.org/web/20190916114704/https://fineartphotoawards.com/winners-gallery/fapa-2017-2018/amateur/architecture">FAPA Fine Art Photography Awards</a> &#8211; Honorable Mention（Architecture）
+・2018, <a href="https://fineartphotoawards.com/winners-gallery/fapa-2017-2018/amateur/architecture/hm/6648">FAPA Fine Art Photography Awards</a> &#8211; Honorable Mention（Architecture）
 </div>
 <div>
-・2017, <a href="http://web.archive.org/web/20190916114704/https://oneeyeland.com/awards/award_images.php?award_id=3689&amp;cat=architecture&amp;year=2017">One Eyeland Awards</a> &#8211; Finalist
+・2017, <a href="https://oneeyeland.com/awards/award_images.php?award_id=3689&amp;cat=architecture&amp;year=2017">One Eyeland Awards</a> &#8211; Finalist
 </div>
 <div>
 ・2017, <a href="https://www.tokyofotoawards.jp/winners/hm/2017/23-9884-18/">TIFA Tokyo International Foto Awards</a> &#8211; Honorable Mention（Architecture）
@@ -48,7 +46,7 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 ・2017, <a href="https://monoawards.com/winners-gallery/monochrome-awards-2017/amateur/architecture/hm/6452"> Monochrome Awards</a> &#8211; Honorable Mention
 </div>
 <div>
-・2017, <a href="https://iphotographeroftheyear.com/winners-gallery/ipoty-2017/amateur/honorable-mentions"> IPOTY International Photographer of The Year</a> &#8211; - Honorable Mention
+・2017, <a href="https://iphotographeroftheyear.com/winners-gallery/ipoty-2017/amateur/bridges/show/hm/2773"> IPOTY International Photographer of The Year</a> &#8211; - Honorable Mention
 </div>
 
 
