@@ -5,6 +5,8 @@
 Naoki Fujihara is an award-winning fine art photographer living in Japan. His works aim at not only expressing the beauty and dynamism of architectures, but he also expresses his values or his life experiences with photography. His photographs were awarded some international photography competitions.
 
 <img src="imgs/IPA_2018_Photos_and_Certificate.jpg" width="100%">
+2018, IPA International Photography Awards – Architecture Photographer of the Year & 1st Place（Architecture）
+
 
 ## Awards List
 
@@ -98,5 +100,29 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 <img src="imgs/UMBRA_AWARDS_Photos_and_Certificate.jpg" width="100%">
 2019, UMBRA International Photography Competition – 1st & 3rd Place（Architecture）
 
+<img src="imgs/ND_Awards_2018_Photo_and_Certificate.jpg" width="100%">
+2018, ND Photography Awards – Honorable Mention（Architecture）
 
+<img src="imgs/IPA_2018_BnW_Photos_and_Certificate.jpg" width="100%">
+2018, IPA International Photography Awards – Honorable Mention（Architecture）
 
+<img src="imgs/PX3_Photo_and_Certificate.jpg" width="100%">
+2018, PX3 Prix de la Photographie de Paris – Gold（Advertising/Architecture）
+
+<img src="imgs/One_Eyeland_BW_Photo_and_Certificate.jpg" width="100%">
+2018, One Eyeland World’s TOP 10 Black & White Photographers – JAPAN Rank #3
+
+<img src="imgs/FAPA_Nominees_Photos_and_Certificate.jpg" width="100%">
+2018, FAPA Fine Art Photography Awards – Honorable Mention（Architecture）
+
+<img src="imgs/TIFA_Photo_and_Certificate.jpg" width="100%">
+2017, TIFA Tokyo International Foto Awards – Honorable Mention（Architecture）
+
+<img src="imgs/One_Eyeland_Photo_and_Certificate.jpg" width="100%">
+2017, One Eyeland Awards – Finalist
+
+<img src="imgs/MonoAwards_Photo_and_Certificate.jpg" width="100%">
+2017, Monochrome Awards – Honorable Mention
+
+<img src="imgs/IPOTY_Photo_and_Certificate.jpg" width="100%">
+2017, IPOTY International Photographer of The Year - Honorable Mention
