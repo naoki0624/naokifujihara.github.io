@@ -79,7 +79,7 @@ Naoki Fujihara is an award-winning fine art photographer living in Japan. His wo
 ・2019, <a href="https://tokyocameraclub.com/special/exhibition_2019/">Tokyo Camera Club Photo Exhibition</a> &#8211; Tokyo, Japan
 </div>
 <div>
-・2018, Black and White &#8211; Blank Wall Gallery, Athens, Greece
+・2018, <a href="http://www.blankwallgallery.com/exhibition-black-white-2019/#jp-carousel-8889">Black and White &#8211; Blank Wall Gallery, Athens, Greece
 </div>
 <div>
 ・2018, <a href="http://www.cipfestival.com/3-naoki-fujihara/">Chania International Photo Festival &#8211; Chania, Greece
